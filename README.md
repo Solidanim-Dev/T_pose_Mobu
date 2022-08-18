@@ -11,8 +11,6 @@ Script made for motion builder users in order to put any biped character in T-Po
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
-
 
 
 
